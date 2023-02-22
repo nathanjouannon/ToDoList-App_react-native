@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
   container : {
     background : '#E8EAED',
     flex : '1',
-    height : '700px',
+    height : 'auto',
   },
   tasksWrapper : {
     marginHorizontal : '20px',
